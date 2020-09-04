@@ -1,14 +1,15 @@
 {
-	"Upcoming": [{
-			"id": "1",
-			"name": "Recruiting Mission Event 1",
-			"type": "Recruiting Mission",
-			"venue": "Vancouver, Canada",
-			"country": "Canada",
-			"imageName": "cat1",
-			"isPremium": "FALSE",
-			"dates": "01 October 2020-03 October 2020",
-			"timings": "6 pm to 7 pm PST"
+	"Upcoming": [
+		{
+			"id": "5",
+			"name": "Premium Only Webinar 1",
+			"type": "Premium Only Webinar",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat5",
+			"isPremium": "TRUE",
+			"dates": "29 September 2020",
+			"timings": "8 am to 10 am PST"
 		},
 		{
 			"id": "2",
@@ -44,16 +45,17 @@
 			"timings": "6 pm to 7 pm PST"
 		},
 		{
-			"id": "5",
-			"name": "Premium Only Webinar 1",
-			"type": "Premium Only Webinar",
-			"venue": "Online",
-			"country": "Online",
-			"imageName": "cat5",
-			"isPremium": "TRUE",
-			"dates": "29 September 2020",
-			"timings": "8 am to 10 am PST"
+			"id": "1",
+			"name": "Recruiting Mission Event 1",
+			"type": "Recruiting Mission",
+			"venue": "Vancouver, Canada",
+			"country": "Canada",
+			"imageName": "cat1",
+			"isPremium": "FALSE",
+			"dates": "01 October 2020-03 October 2020",
+			"timings": "6 pm to 7 pm PST"
 		},
+		
 		{
 			"id": "6",
 			"name": "Open Webinar 1",
