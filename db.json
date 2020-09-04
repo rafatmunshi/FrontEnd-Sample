@@ -1,0 +1,136 @@
+{
+	"Upcoming": [{
+			"id": "1",
+			"name": "Recruiting Mission Event 1",
+			"type": "Recruiting Mission",
+			"venue": "Vancouver, Canada",
+			"country": "Canada",
+			"imageName": "cat1",
+			"isPremium": "FALSE",
+			"dates": "01 October 2020-03 October 2020",
+			"timings": "6 pm to 7 pm PST"
+		},
+		{
+			"id": "2",
+			"name": "Leap Event 1",
+			"type": "Leap Event",
+			"venue": "Montreal, Canada",
+			"country": "Canada",
+			"imageName": "cat2",
+			"isPremium": "FALSE",
+			"dates": "01 December 2020-03 December 2020",
+			"timings": "9 am to 7 pm PST"
+		},
+		{
+			"id": "3",
+			"name": "VanHackathon 1",
+			"type": "VanHackathon",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat3",
+			"isPremium": "FALSE",
+			"dates": "01 September 2020",
+			"timings": "6 pm to 7 pm PST"
+		},
+		{
+			"id": "4",
+			"name": "Meet up 1",
+			"type": "Meet up",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat4",
+			"isPremium": "FALSE",
+			"dates": "01 October 2020",
+			"timings": "6 pm to 7 pm PST"
+		},
+		{
+			"id": "5",
+			"name": "Premium Only Webinar 1",
+			"type": "Premium Only Webinar",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat5",
+			"isPremium": "TRUE",
+			"dates": "29 September 2020",
+			"timings": "8 am to 10 am PST"
+		},
+		{
+			"id": "6",
+			"name": "Open Webinar 1",
+			"type": "Open Webinar",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat6",
+			"isPremium": "FALSE",
+			"dates": "28 September 2020",
+			"timings": "8 pm to 9 pm PST"
+		}
+	],
+	"Previous": [{
+			"id": "1",
+			"name": "Recruiting Mission Event 1",
+			"type": "Recruiting Mission",
+			"venue": "Vancouver, Canada",
+			"country": "Canada",
+			"imageName": "cat1",
+			"isPremium": "FALSE",
+			"dates": "01 October 2019-03 October 2019",
+			"timings": "6 pm to 7 pm PST"
+		},
+		{
+			"id": "2",
+			"name": "Leap Event 1",
+			"type": "Leap Event",
+			"venue": "Montreal, Canada",
+			"country": "Canada",
+			"imageName": "cat2",
+			"isPremium": "FALSE",
+			"dates": "01 December 2019-03 December 2019",
+			"timings": "9 am to 7 pm PST"
+		},
+		{
+			"id": "3",
+			"name": "VanHackathon 1",
+			"type": "VanHackathon",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat3",
+			"isPremium": "FALSE",
+			"dates": "01 September 2019",
+			"timings": "6 pm to 7 pm PST"
+		},
+		{
+			"id": "4",
+			"name": "Meet up 1",
+			"type": "Meet up",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat4",
+			"isPremium": "FALSE",
+			"dates": "01 October 2019",
+			"timings": "6 pm to 7 pm PST"
+		},
+		{
+			"id": "5",
+			"name": "Premium Only Webinar 1",
+			"type": "Premium Only Webinar",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat5",
+			"isPremium": "TRUE",
+			"dates": "29 September 2019",
+			"timings": "8 am to 10 am PST"
+		},
+		{
+			"id": "6",
+			"name": "Open Webinar 1",
+			"type": "Open Webinar",
+			"venue": "Online",
+			"country": "Online",
+			"imageName": "cat6",
+			"isPremium": "FALSE",
+			"dates": "28 September 2019",
+			"timings": "8 pm to 9 pm PST"
+		}
+	]
+}
