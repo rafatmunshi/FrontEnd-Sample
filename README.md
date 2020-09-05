@@ -1,5 +1,7 @@
 This is a sample webpage i created using HTML3, CSS3, Bootstrap, JavaScript/ES6 as an Events page of a recruiting company. 
+
 Check out the webpage at https://rafatmunshi.github.io/FrontEnd-Sample/
+
 It takes events details from a server in the JSON format, parses it and populates on the page.
 It has share to LinkedIn feature for each events which would post their respective details as a linkedIn post/message.
 A user can apply for all free Events, however for Premium Events they won't be able to.
