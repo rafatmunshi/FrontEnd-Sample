@@ -10,6 +10,15 @@ There are two tabs to populate the upcoming as well as previous events.
 It's top navigation bar is made sticky and a bottom arrow is made visible when user has scrolled beyond 1200 px which directly scrolls to the top.
 All icons are used of fontawesome and images are from unsplash.com
 
+![img](https://github.com/rafatmunshi/FrontEnd-Sample/raw/master/1.png)
+
+![img](https://github.com/rafatmunshi/FrontEnd-Sample/raw/master/2.png)
+
+![img](https://github.com/rafatmunshi/FrontEnd-Sample/raw/master/3.png)
+
+![img](https://github.com/rafatmunshi/FrontEnd-Sample/raw/master/4.png)
+
+
 Further work required-
 Although many elements of the page is responsive, however some elements do not show responsive behaviour as of now.
 Populating the previous events using fetch call with the other link is to be implemented as well.
